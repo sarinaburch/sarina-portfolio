@@ -42,7 +42,7 @@ const styles = {
 function Skills() {
     return (
         <div style={styles.container}>
-            <h1 style={styles.h1}>About Me</h1>
+            <h1 style={styles.h1} id="AboutMe">About Me</h1>
             <div className="columns" style={styles.columns}>
                 <div className="column is-two-thirds">
                 <AboutMe />

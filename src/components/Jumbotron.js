@@ -28,7 +28,7 @@ function Jumbotron() {
                         </h3>
                         <div class="tabs titles">
                             <ul>
-                                <li><a href="https://bulma.io">About Me</a></li>
+                                <li><a href="#AboutMe">About Me</a></li>
                                 <li><a href="#portfolio">Portfolio</a></li>
                                 <li><a href="https://bulma.io">Get In Touch</a></li>
                             </ul>
