@@ -30,7 +30,7 @@ function Jumbotron() {
                             <ul>
                                 <li><a href="#AboutMe">About Me</a></li>
                                 <li><a href="#portfolio">Portfolio</a></li>
-                                <li><a href="https://bulma.io">Get In Touch</a></li>
+                                <li><a href="#contact">Get In Touch</a></li>
                             </ul>
                         </div>
                     </div>
