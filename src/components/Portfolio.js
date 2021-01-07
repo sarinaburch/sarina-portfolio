@@ -57,7 +57,7 @@ function Portfolio() {
                 <div className="columns" style={styles.columns}>
                     <div className="column">
                         <div class="image-box is-one-fifth">
-                            <img src={dinner} alt="Unsplashed Random"/>
+                            <img src={dinner} alt="what's for dinner"/>
                         </div>
                     </div>
                     <div className="column is-three-fifth" style={styles.hr2}><hr />
@@ -80,14 +80,14 @@ function Portfolio() {
                     </div>
                     <div className="column is-one=-fifth">
                         <div class="image-box">
-                            <img src={amplifi} alt="Unsplashed Random" />
+                            <img src={amplifi} alt="ampli-fi" />
                         </div>
                     </div>
                 </div>
                 <div className="columns" style={styles.columns}>
                     <div className="column">
                         <div class="image-box">
-                            <img src={tracker} alt="Unsplashed Random" />
+                            <img src={tracker} alt="employee tracker" />
                         </div>
                     </div>
                     <div className="column" style={styles.hr2}><hr />
@@ -110,7 +110,7 @@ function Portfolio() {
                     </div>
                     <div className="column is-one=-fifth">
                         <div class="image-box">
-                            <img src={workoutTracker} alt="Unsplashed Random" />
+                            <img src={workoutTracker} alt="workout tracker" />
                         </div>
                     </div>
                 </div>
