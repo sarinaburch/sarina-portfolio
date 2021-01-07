@@ -65,7 +65,7 @@ function Portfolio() {
                     <div className="column project">
                         <h2 style={styles.h2}>What's for Dinner?</h2>
                         <ul>
-                        <li><a href="https://github.com/sarinaburch/Ampli-FI" target="blank">View GitHub Repository | </a><a href="https://amplifiyourlife.herokuapp.com/" target="blank">View Application</a></li>
+                        <li><a href="https://github.com/sarinaburch/What-s-For-Dinner" target="blank">View GitHub Repository | </a><a href="https://sarinaburch.github.io/What-s-For-Dinner/" target="blank">View Application</a></li>
                         </ul>
                     </div>
                 </div>
@@ -103,7 +103,7 @@ function Portfolio() {
                     <div className="column project">
                         <h2 style={styles.h2}>Workout Tracker</h2>
                         <ul>
-                        <li><a href="https://github.com/sarinaburch/employee-tracker">View GitHub Repository | </a><a href="https://amplifiyourlife.herokuapp.com/" target="blank">View Application</a></li>
+                        <li><a href="https://github.com/sarinaburch/Workout-Tracker">View GitHub Repository | </a><a href="https://still-plateau-83775.herokuapp.com/" target="blank">View Application</a></li>
                         </ul>
                     </div>
                     <div className="column is-three-fifth" style={styles.hr2}><hr />

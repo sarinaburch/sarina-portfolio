@@ -37,7 +37,7 @@ function AboutMe() {
                         </div>
                         <div class="tile is-parent"style={style.background}>
                              <article class="tile is-child is-12" >
-                             <p>I used to be a Marketing and SEO professional but recently decided to make a career change to Web Development. I was born and raised in a tiny town in Wisconsin, called Hillsboro. I currently live in Charlotte, NC, but I have called many cities home over the last 8 years including, New York City and Milwaukee.</p>
+                             <p>I worked as a marketing and SEO professional for two years and recently decided to make a career change to Web Development. I was born and raised in a tiny town in the tiny town of Hillsboro, Wisconsin. I currently live in Charlotte, NC, but I have called many cities home over the last 8 years including, New York City and Milwaukee.</p>
                         <p>I attended college at the University of Wisconsin-La Crosse. While there, I studied Business Communication Theory.</p>
                             <p>After completing college, I entered into the world of Digital Marketing. Updating code on my clients' websites was my favorite part of the job, which is what sparked my interest in persuing a new career.</p>
                         <p>When I'm not expanding my Web Development knowledge, I enjoy going on runs, playing with my pups, and exploring all the breweries and wine bars Charlotte has to offer.</p>
