@@ -4,6 +4,7 @@ import tracker from '../Images/tracker.demo.gif'
 import '../styles/portfolio.css';
 import amplifi from '../Images/amplifi.PNG';
 import workoutTracker from '../Images/workoutTracker.gif';
+import generator from '../Images/generator.demo.gif';
 
 const styles = {
     container: {
@@ -65,6 +66,7 @@ function Portfolio() {
 
                     <div className="column is-two-fifth project">
                         <h2 style={styles.h2}>What's for Dinner?</h2>
+                        <h3>JavaScript</h3>
                         <ul>
                             <li><a href="https://github.com/sarinaburch/What-s-For-Dinner" target="blank">View GitHub Repository | </a><a href="https://sarinaburch.github.io/What-s-For-Dinner/" target="blank">View Application</a></li>
                         </ul>
@@ -73,6 +75,7 @@ function Portfolio() {
                 <div className="columns" style={styles.columns}>
                     <div className="column is-two-fifth project">
                         <h2 style={styles.h2}>Ampli-FI</h2>
+                        <h3>React/Node.js</h3>
                         <ul>
                             <li><a href="https://github.com/sarinaburch/Ampli-FI" target="blank">View GitHub Repository | </a><a href="https://amplifiyourlife.herokuapp.com/" target="blank">View Application</a></li>
                         </ul>
@@ -91,6 +94,7 @@ function Portfolio() {
                     </div>
                     <div className="column is-two-fifth project">
                         <h2 style={styles.h2}>Employee Tracker</h2>
+                        <h3>Node.js/MySQL</h3>
                         <ul>
                             <li><a href="https://github.com/sarinaburch/employee-tracker">View GitHub Repository</a></li>
                         </ul>
@@ -99,6 +103,7 @@ function Portfolio() {
                 <div className="columns" style={styles.columns}>
                     <div className="column is-two-fifth project">
                         <h2 style={styles.h2}>Workout Tracker</h2>
+                        <h3>JavaScript/NoSQL</h3>
                         <ul>
                             <li><a href="https://github.com/sarinaburch/Workout-Tracker">View GitHub Repository | </a><a href="https://still-plateau-83775.herokuapp.com/" target="blank">View Application</a></li>
                         </ul>
@@ -107,6 +112,20 @@ function Portfolio() {
                         <div class="image-box">
                         <a href="https://still-plateau-83775.herokuapp.com/" target="blank"><img src={workoutTracker} alt="workout tracker" /></a>
                         </div>
+                    </div>
+                </div>
+                <div className="columns" style={styles.columns}>
+                    <div className="column is-three-fifth">
+                        <div class="image-box">
+                        <a href="https://github.com/sarinaburch/readme-generator"><img src={generator} alt="GitHub ReadMe Generator" /></a>
+                        </div>
+                    </div>
+                    <div className="column is-two-fifth project">
+                        <h2 style={styles.h2}>GitHub ReadMe Generator</h2>
+                        <h3>Node.js/JavaScript</h3>
+                        <ul>
+                            <li><a href="https://github.com/sarinaburch/readme-generator">View GitHub Repository</a></li>
+                        </ul>
                     </div>
                 </div>
                 <hr style={styles.hr} />
