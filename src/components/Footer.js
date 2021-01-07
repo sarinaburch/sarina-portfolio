@@ -18,7 +18,7 @@ function Footer() {
                 <div>
                     <div>
                         <a className="button is-medium is-facebook" href="https://www.facebook.com/sarina.burch" target="blank">
-                            <span>
+                            <span className="icon">
                                 <i class="fab fa-facebook"></i>
                             </span>
                         </a>
@@ -35,7 +35,7 @@ function Footer() {
                         </a>
 
                     </div>
-                    <p>Sarina Burch Web Dev Copyright 2020</p>
+                    <p>Sarina Burch Web Dev Copyright 2021</p>
                 </div>
             </div>
         </footer>
