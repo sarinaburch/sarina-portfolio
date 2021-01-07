@@ -55,44 +55,41 @@ function Portfolio() {
                     </div>
                 </div>
                 <div className="columns" style={styles.columns}>
-                    <div className="column">
-                        <div class="image-box is-one-fifth">
-                            <img src={dinner} alt="what's for dinner"/>
+                    <div className="column is-three-fifth">
+                        <div class="image-box">
+                            <a href="https://sarinaburch.github.io/What-s-For-Dinner/" target="blank">
+                                <img src={dinner} alt="what's for dinner" />
+                            </a>
                         </div>
                     </div>
-                    <div className="column is-three-fifth" style={styles.hr2}><hr />
-                    </div>
-                    <div className="column project">
+
+                    <div className="column is-two-fifth project">
                         <h2 style={styles.h2}>What's for Dinner?</h2>
                         <ul>
-                        <li><a href="https://github.com/sarinaburch/What-s-For-Dinner" target="blank">View GitHub Repository | </a><a href="https://sarinaburch.github.io/What-s-For-Dinner/" target="blank">View Application</a></li>
+                            <li><a href="https://github.com/sarinaburch/What-s-For-Dinner" target="blank">View GitHub Repository | </a><a href="https://sarinaburch.github.io/What-s-For-Dinner/" target="blank">View Application</a></li>
                         </ul>
                     </div>
                 </div>
                 <div className="columns" style={styles.columns}>
-                    <div className="column project">
+                    <div className="column is-two-fifth project">
                         <h2 style={styles.h2}>Ampli-FI</h2>
                         <ul>
                             <li><a href="https://github.com/sarinaburch/Ampli-FI" target="blank">View GitHub Repository | </a><a href="https://amplifiyourlife.herokuapp.com/" target="blank">View Application</a></li>
                         </ul>
                     </div>
-                    <div className="column is-three-fifth" style={styles.hr2}><hr />
-                    </div>
-                    <div className="column is-one=-fifth">
+                    <div className="column is-three-fifth">
                         <div class="image-box">
-                            <img src={amplifi} alt="ampli-fi" />
+                        <a href="https://amplifiyourlife.herokuapp.com/" target="blank"><img src={amplifi} alt="ampli-fi" /></a>
                         </div>
                     </div>
                 </div>
                 <div className="columns" style={styles.columns}>
-                    <div className="column">
+                    <div className="column is-three-fifth">
                         <div class="image-box">
-                            <img src={tracker} alt="employee tracker" />
+                        <a href="https://github.com/sarinaburch/employee-tracker"><img src={tracker} alt="employee tracker" /></a>
                         </div>
                     </div>
-                    <div className="column" style={styles.hr2}><hr />
-                    </div>
-                    <div className="column project">
+                    <div className="column is-two-fifth project">
                         <h2 style={styles.h2}>Employee Tracker</h2>
                         <ul>
                             <li><a href="https://github.com/sarinaburch/employee-tracker">View GitHub Repository</a></li>
@@ -100,17 +97,15 @@ function Portfolio() {
                     </div>
                 </div>
                 <div className="columns" style={styles.columns}>
-                    <div className="column project">
+                    <div className="column is-two-fifth project">
                         <h2 style={styles.h2}>Workout Tracker</h2>
                         <ul>
-                        <li><a href="https://github.com/sarinaburch/Workout-Tracker">View GitHub Repository | </a><a href="https://still-plateau-83775.herokuapp.com/" target="blank">View Application</a></li>
+                            <li><a href="https://github.com/sarinaburch/Workout-Tracker">View GitHub Repository | </a><a href="https://still-plateau-83775.herokuapp.com/" target="blank">View Application</a></li>
                         </ul>
                     </div>
-                    <div className="column is-three-fifth" style={styles.hr2}><hr />
-                    </div>
-                    <div className="column is-one=-fifth">
+                    <div className="column is-three-fifth">
                         <div class="image-box">
-                            <img src={workoutTracker} alt="workout tracker" />
+                        <a href="https://still-plateau-83775.herokuapp.com/" target="blank"><img src={workoutTracker} alt="workout tracker" /></a>
                         </div>
                     </div>
                 </div>

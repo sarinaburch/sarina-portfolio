@@ -30,7 +30,6 @@ function Contact() {
                             Want to Work Together? Please reach out to me directly.</p>
                     </header>
                         <footer className="card-footer">
-                            <a href="tel:6084790095" class="card-footer-item">Phone: 608.479.0095</a>
                             <a href = "mailto: sarinaburch52@gmail.com" class="card-footer-item">Email: sarinaburch52@gmail.com</a>
                         </footer>
                     </div>

@@ -44,10 +44,10 @@ function Skills() {
         <div style={styles.container}>
             <h1 style={styles.h1} id="AboutMe">About Me</h1>
             <div className="columns" style={styles.columns}>
-                <div className="column is-two-thirds">
+                <div className="column is-three-fourth">
                 <AboutMe />
                 </div>
-                    <div className="column is-one-third">
+                    <div className="column is-one-fourth">
                         <div>
                             <h3 style={styles.h3} class="title">CSS</h3>
                             <div class="tile" style={styles.tile}>
