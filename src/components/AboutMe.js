@@ -1,6 +1,6 @@
 import React from 'react';
 import me from '../Images/me.jpg';
-import FullStackWebDeveloper_SarinaBurch from '../src/FullStackWebDeveloper_SarinaBurch.docx';
+import FullStackWebDeveloper_SarinaBurch from '../Images/FullStackWebDeveloper_SarinaBurch';
 
 const style = {
     title: {
@@ -51,7 +51,7 @@ function AboutMe() {
                                 <p>When I'm not expanding my Web Development knowledge, I enjoy going on runs, playing with my pups, and exploring all the breweries and wine bars Charlotte has to offer.</p>
                             </article>
                         </div>
-                        <div >Resume</div>
+                        <div src={FullStackWebDeveloper_SarinaBurch}>Resume</div>
                     </div>
                 </div>
             </div>
