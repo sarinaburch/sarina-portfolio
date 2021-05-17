@@ -1,5 +1,4 @@
 import React from 'react';
-import '../styles/skills.css';
 import { Progress } from 'react-sweet-progress';
 import "react-sweet-progress/lib/style.css";
 import AboutMe from '../components/AboutMe'

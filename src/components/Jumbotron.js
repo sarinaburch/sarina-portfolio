@@ -31,6 +31,7 @@ function Jumbotron() {
                                 <li><a href="#AboutMe">About Me</a></li>
                                 <li><a href="#portfolio">Portfolio</a></li>
                                 <li><a href="#contact">Get In Touch</a></li>
+                                <li><a href="https://docs.google.com/document/d/1OP86ZBlqHMePIvIYdkR_uqxh5WTbg1HZDaV-MMrnqkc/edit?usp=sharing" target="blank">Resume</a></li>
                             </ul>
                         </div>
                     </div>

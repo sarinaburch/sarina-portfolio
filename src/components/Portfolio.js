@@ -82,14 +82,14 @@ function Portfolio() {
                     </div>
                     <div className="column is-three-fifth">
                         <div class="image-box">
-                        <a href="https://amplifiyourlife.herokuapp.com/" target="blank"><img src={amplifi} alt="ampli-fi" /></a>
+                            <a href="https://amplifiyourlife.herokuapp.com/" target="blank"><img src={amplifi} alt="ampli-fi" /></a>
                         </div>
                     </div>
                 </div>
                 <div className="columns" style={styles.columns}>
                     <div className="column is-three-fifth">
                         <div class="image-box">
-                        <a href="https://github.com/sarinaburch/employee-tracker"><img src={tracker} alt="employee tracker" /></a>
+                            <a href="https://github.com/sarinaburch/employee-tracker"><img src={tracker} alt="employee tracker" /></a>
                         </div>
                     </div>
                     <div className="column is-two-fifth project">
@@ -110,14 +110,14 @@ function Portfolio() {
                     </div>
                     <div className="column is-three-fifth">
                         <div class="image-box">
-                        <a href="https://still-plateau-83775.herokuapp.com/" target="blank"><img src={workoutTracker} alt="workout tracker" /></a>
+                            <a href="https://still-plateau-83775.herokuapp.com/" target="blank"><img src={workoutTracker} alt="workout tracker" /></a>
                         </div>
                     </div>
                 </div>
                 <div className="columns" style={styles.columns}>
                     <div className="column is-three-fifth">
                         <div class="image-box">
-                        <a href="https://github.com/sarinaburch/readme-generator"><img src={generator} alt="GitHub ReadMe Generator" /></a>
+                            <a href="https://github.com/sarinaburch/readme-generator"><img src={generator} alt="GitHub ReadMe Generator" /></a>
                         </div>
                     </div>
                     <div className="column is-two-fifth project">

@@ -1,6 +1,7 @@
 import React from 'react';
+
 import me from '../Images/me.jpg';
-import FullStackWebDeveloper_SarinaBurch from '../Images/FullStackWebDeveloper_SarinaBurch';
+
 
 const style = {
     title: {
@@ -31,7 +32,7 @@ function AboutMe() {
                         <div class="tile is-parent is-vertical"><article class="tile is-child">
                             <p class="title" style={style.title}>My name is Sarina...</p>
                             <figure class="image is-3by4">
-                                <img src={me} />
+                                <img alt="" src={me} />
                             </figure>
                         </article>
 
@@ -51,10 +52,12 @@ function AboutMe() {
                                 <p>When I'm not expanding my Web Development knowledge, I enjoy going on runs, playing with my pups, and exploring all the breweries and wine bars Charlotte has to offer.</p>
                             </article>
                         </div>
-                        <div src={FullStackWebDeveloper_SarinaBurch}>Resume</div>
                     </div>
                 </div>
             </div>
+           <div>
+               
+           </div>
         </div>
     )
 }

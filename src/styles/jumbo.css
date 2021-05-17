@@ -10,11 +10,7 @@
     display: inline-block;
 }
 
-.body, .landingpage {
-    margin: 0;
-    padding: 0;
-    background-color: black;
-  }
+
  
   .wrapper {
     position: relative;
@@ -36,10 +32,10 @@
   }
 
   .headline {
-    font:900 35pt/35pt sans-serif;
+    font: 100pt sans-serif;
     text-transform:uppercase;
     color: #F1C40F;
-    letter-spacing:-.55pt;
+  
     
     opacity:0;
     -webkit-backface-visibility: hidden;
@@ -49,8 +45,9 @@
     animation-name: fadeInDown;
   }
   .titles {
-    margin-top: -20px;
-    font:10 11pt/11pt sans-serif;
+    margin-top: -50px;
+    font: 11pt sans-serif;
+    letter-spacing: 2pt;
     
     
 
@@ -137,7 +134,7 @@
 
   .hero {
       background-color: black;
-      text-align: center;
+      
   }
 
   .hr {

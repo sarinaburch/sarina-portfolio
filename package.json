@@ -19,6 +19,8 @@
     "react-bulma-components": "^3.4.0",
     "react-customizable-progressbar": "^1.0.1",
     "react-dom": "^16.13.1",
+    "react-download-link": "^2.3.0",
+    "react-pdf": "^5.2.0",
     "react-scripts": "3.4.3",
     "react-sweet-progress": "^1.1.2"
   },

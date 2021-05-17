@@ -1,5 +1,4 @@
 import React from 'react';
-import Jumbotron from './Jumbotron';
 
 const styles = {
     card: {
@@ -8,7 +7,6 @@ const styles = {
     },
     title: {
         fontSize: "30px",
-        marginBottom: "10px",
         textAlign: "center",
         color: "#FADBD8",
         marginBottom: "45px"
