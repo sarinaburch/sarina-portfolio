@@ -38,7 +38,7 @@ function Footer() {
                         </a>
 
                     </div>
-                    <p>Sarina Burch Web Dev Copyright 2021</p>
+                    <p>Sarina Burch Web Dev Copyright 2017</p>
                 </div>
             </div>
         </footer>
